@@ -1,0 +1,71 @@
+body{
+	background-color: #226699;
+	margin: 5%;
+	font-size: 140%;
+}
+
+header{
+	background-color: #ff6933;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman";
+}
+
+
+h2{
+	background-color: rgb(150,240,120);
+	color: rgb(140,100,180);
+}
+
+section{
+	background-color: #ff0088;
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin: 10px;
+}
+
+section.foods{
+	background-color: rgb(240,240,240);
+}
+
+summary{
+	font-style: normal;
+}
+
+details{
+	font-style: italic;
+}
+
+footer{
+	background-color: yellow;
+	height: 100px;
+	clear: both;
+	margin-top: 2%;
+	/*font-size: 80%;*/
+}
+
+img{
+	width: 100px;
+	height: 50px;
+}
+
+a.intro{
+	background-color: black;
+	color:pink;
+	font-style: italic;
+}
+
+a.nav{
+	background-color: #000000;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-style: italic;
+	display: inline-block;
+	width: 200px;
+	text-decoration: none;
+}
